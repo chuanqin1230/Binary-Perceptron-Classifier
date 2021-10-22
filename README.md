@@ -1,9 +1,6 @@
 # Perceptron Classfier Implementation
 Code suite with Python __version__ 3.8
-
-- CptS 570: Machine Learning
 - Author: Chuan Qin
-- Note: This is a Demo code for Dr. Jouni Peppanen
 
 
 ## Requirements
